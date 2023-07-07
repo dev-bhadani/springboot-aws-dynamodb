@@ -32,6 +32,4 @@ public class DynamoDBConfig {
                         new BasicAWSCredentials(accesskey,secretkey)))
                 .build();
     }
-
-
 }
